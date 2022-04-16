@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "course_work_equals_solver",
-    "slug": "course_work_equals_solver",
+    "slug": "snack-3a2dcb59-8879-49b7-9f79-961536bfc0a4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Some details have changed (Navigation by buttons + custom AppButtons)"
   }
 }
