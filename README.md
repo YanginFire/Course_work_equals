@@ -1,2 +1,4 @@
 # MathHack
-Mobile developement of equals calculator for university project
+Mobile developement of equals solver calculator for university project
+
+React Native & Expo
